@@ -2,7 +2,7 @@ package com.example.Urlshortner.Controller;
 
 //import org.springframework.http.HttpStatus.FOUND;
 import com.example.Urlshortner.model.UrlRequest;
-import com.example.Urlshortner.service.UrlService;
+import com.example.Urlshortner.Service.UrlService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import java.net.URI;
